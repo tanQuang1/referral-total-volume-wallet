@@ -13,7 +13,7 @@ export const RewardThresholds = ({ tiers }: RewardThresholdsProps) => {
       <h1 className="text-[14px] text-[#0E121B] font-medium ">
         {t("home.rewardThresholds")}
       </h1>
-      <div>
+      <div className="pb-[100px]">
         {tiers && tiers.length > 0 ? (
           <div className="flex flex-col gap-3">
             {tiers.map((tier) => (
