@@ -4,6 +4,7 @@ import { RewardThresholds } from "./reward-thresholds";
 import { YourVolumeBox } from "./your-volume-box";
 import { useParams } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import { CashBoxSkeleton } from "../loading/cash-box-skeleton";
 
 export const CashBox = () => {
   const { address } = useParams();
@@ -23,6 +24,9 @@ export const CashBox = () => {
     overviewVolumeReferralData?.data.volumes.totalF2Volume || 0;
   const currentBonus = overviewVolumeReferralData?.data.currentBonus || 0;
   const tiers = overviewVolumeReferralData?.data.tiers || [];
+  if (isOverviewVolumeReferralDataLoading) {
+    return <CashBoxSkeleton />;
+  }
   return (
     <div className="flex flex-col gap-6">
       <div className="flex flex-col gap-3">
