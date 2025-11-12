@@ -62,8 +62,14 @@ export const RewardThresholdsCard = ({
                   isComplete ? "text-[#1FC16B]" : "text-[#6962F1]"
                 }`}>
                 {isComplete
-                  ? `+${reward.toLocaleString()}`
-                  : `${reward.toLocaleString()}`}
+                  ? `+${Number(reward || 0).toLocaleString("de-DE", {
+                      minimumFractionDigits: 0,
+                      maximumFractionDigits: 2,
+                    })}`
+                  : `${Number(reward || 0).toLocaleString("de-DE", {
+                      minimumFractionDigits: 0,
+                      maximumFractionDigits: 2,
+                    })}`}
               </h2>
               <img
                 src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo.png"
@@ -75,7 +81,7 @@ export const RewardThresholdsCard = ({
 
           <div className="flex items-center justify-between ">
             <p className="text-[12px] font-normal text-[#99A0AE]">
-              {Number(pct || 0).toLocaleString("en-US", {
+              {Number(pct || 0).toLocaleString("de-DE", {
                 minimumFractionDigits: 1,
                 maximumFractionDigits: 2,
               })}

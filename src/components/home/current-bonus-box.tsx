@@ -42,7 +42,11 @@ export const CurrentBonusBox = ({ currentBonus }: CurrentBonusBoxProps) => {
       </div>
       <div className="flex items-center gap-[6px]">
         <h2 className="text-[#1FC16B] text-[24px] font-bold">
-          +{currentBonus}
+          +
+          {Number(currentBonus || 0).toLocaleString("de-DE", {
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 2,
+          })}
         </h2>
         <img
           src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo.png"

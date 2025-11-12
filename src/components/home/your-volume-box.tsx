@@ -25,7 +25,10 @@ export const YourVolumeBox = ({
           <p>{t("home.yourCommunityVolume")}</p>
         </div>
         <h2 className="text-[#0E121B] text-[24px] font-bold">
-          {communityVolume}
+          {Number(communityVolume || 0).toLocaleString("de-DE", {
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 2,
+          })}
         </h2>
       </div>
       <hr className="border border-[#E1E4EA]" />
@@ -35,7 +38,10 @@ export const YourVolumeBox = ({
             {t("home.yourVolume")}
           </p>
           <p className="text-[#0E121B] font-medium text-[14px]">
-            {myTotalVolume}
+            {Number(myTotalVolume || 0).toLocaleString("de-DE", {
+              minimumFractionDigits: 0,
+              maximumFractionDigits: 2,
+            })}
           </p>
         </div>
         <div className="flex items-center justify-between">
@@ -43,7 +49,10 @@ export const YourVolumeBox = ({
             {t("home.yourF1Volume")}
           </p>
           <p className="text-[#0E121B] font-medium text-[14px]">
-            {totalF1Volume}
+            {Number(totalF1Volume || 0).toLocaleString("de-DE", {
+              minimumFractionDigits: 0,
+              maximumFractionDigits: 2,
+            })}
           </p>
         </div>
         <div className="flex items-center justify-between">
@@ -51,7 +60,10 @@ export const YourVolumeBox = ({
             {t("home.yourF2Volume")}
           </p>
           <p className="text-[#0E121B] font-medium text-[14px]">
-            {totalF2Volume}
+            {Number(totalF2Volume || 0).toLocaleString("de-DE", {
+              minimumFractionDigits: 0,
+              maximumFractionDigits: 2,
+            })}
           </p>
         </div>
       </div>

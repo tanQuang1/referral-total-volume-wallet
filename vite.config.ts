@@ -5,4 +5,11 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   base: "/trading-event",
   plugins: [tailwindcss(), react()],
+  server: {
+    host: "0.0.0.0",
+    port: 1114,
+  },
+  preview: {
+    allowedHosts: true,
+  },
 });
