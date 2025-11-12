@@ -9,6 +9,10 @@ import { CashBoxSkeleton } from "../loading/cash-box-skeleton";
 export const CashBox = () => {
   const { address } = useParams();
   const { t } = useTranslation();
+
+  if (!address) {
+    return <div>No address provided</div>;
+  }
   const {
     data: overviewVolumeReferralData,
     isLoading: isOverviewVolumeReferralDataLoading,
