@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "Aperçu",
+    "overviewContent1": "Le système de parrainage (Referral system) d'InterLink Wallet permet aux utilisateurs de gagner et de partager des récompenses grâce aux activités de trading.",
+    "overviewContent2": "L'inviteur et l'invité peuvent en bénéficier : les inviteurs gagnent des commissions sur les transactions des invités, tandis que les invités reçoivent un cashback sur leurs propres transactions.",
+    "overviewContent3": "Les récompenses sont calculées automatiquement et converties en USD pendant le cycle de règlement mensuel.",
+    "howItWorksTitle": "Comment ça marche?",
+    "howItWorksContent1": "Commission (Invitez des filleuls pour gagner)",
+    "howItWorksContent2": "La commission est la récompense que vous gagnez sur les frais de Swap et de Futures de vos filleuls.",
+    "howItWorksContent3": "Vous pouvez inviter un nombre illimité d'utilisateurs et définir votre propre taux de commission avant de partager votre code.",
+    "howItWorksContent4": "Dès qu'un invité entre votre code, ce taux est verrouillé pour lui – les changements ultérieurs ne s'appliquent qu'aux nouveaux invités.",
+    "howItWorksContent5": "Les commissions sont mises à jour dans l'\"Earning History\" et sont réglées mensuellement en USD.",
+    "howItWorksContent6": "Cashback (Entrez le code de l'inviteur pour gagner)",
+    "howItWorksContent7": "Le Cashback est la récompense retournée sur vos propres frais de Swap et de Futures après avoir entré le code d'un inviteur.",
+    "howItWorksContent8": "Chaque portefeuille ne peut entrer qu'un seul code de parrainage pour activer le cashback.",
+    "howItWorksContent9": "Les taux de cashback dépendent du taux de commission fixé par l'inviteur.",
+    "howItWorksContent10": "Le Cashback est mis à jour dans l'\"Earning History\" et est réglé mensuellement en USD."
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "Comment retirer?",
+    "howToWithdrawContent1": "La \"Estimated Reward\" affiche votre total (commission + cashback) converti en USD sur la base des taux de marché actuels.",
+    "howToWithdrawContent2": "Le montant \"Withdrawable\" est le montant final en USD après la conversion et le règlement mensuels (du 1er au 10 de chaque mois).",
+    "howToWithdrawContent3": "Si votre récompense totale après conversion est ≥ 10 USD, elle devient retirable et peut être réclamée.",
+    "howToWithdrawContent4": "Si votre récompense totale est < 10 USD, elle est reportée au cycle du mois suivant jusqu'à ce qu'elle dépasse le seuil.",
+    "note1": "Les retraits nécessitent un solde BNB suffisant pour les frais de gaz sur le réseau BSC.",
+    "note2": "Si votre solde retirable est inférieur à 10 USD ou si vous ne retirez pas avant le mois prochain, il sera reporté et accumulé avec les récompenses converties du mois suivant."
+  },
+  "hcs": {
+    "whatIsHCSTitle": "Qu'est-ce que HCS?",
+    "whatIsHCSContent1": "Le Human Credit Score (HCS) est un indice de confiance dynamique alimenté par l'apprentissage automatique.",
+    "whatIsHCSContent2": "Il analyse en permanence les données d'identité vérifiées, l'activité comportementale et les interactions blockchain sur l'ensemble du réseau InterLink.",
+    "howToIncreaseHCSTitle": "Comment augmenter le HCS?",
+    "howToIncreaseHCSText": "Vous pouvez augmenter votre HCS par des actions cohérentes à la fois dans l'InterLink App et le ITLX Wallet.",
+    "howToIncreaseHCSContent1": "Minez quotidiennement et maintenez des séries, minez dans votre Groupe de Sécurité et maintenez toute l'équipe active ensemble.",
+    "howToIncreaseHCSContent2": "Votre HCS augmente à mesure que votre portefeuille vieillit et que vos activités on-chain (swap, trade, hold) s'accumulent, prouvant une cohérence humaine à long terme.",
+    "howToIncreaseHCSContent3": "Plus vous êtes réel, stable et actif, plus votre HCS devient fort."
+  }
+}

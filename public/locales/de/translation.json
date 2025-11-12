@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "Übersicht",
+    "overviewContent1": "Das Empfehlungssystem (Referral-System) von InterLink Wallet ermöglicht es Nutzern, Belohnungen durch Handelsaktivitäten zu verdienen und zu teilen.",
+    "overviewContent2": "Sowohl der Werber als auch der Geworbene profitieren – Werber erhalten Provisionen aus den Transaktionen der Geworbenen, während Geworbene Cashback aus ihren eigenen Transaktionen erhalten.",
+    "overviewContent3": "Belohnungen werden automatisch berechnet und während des monatlichen Abrechnungszyklus in USD umgerechnet.",
+    "howItWorksTitle": "Wie funktioniert es?",
+    "howItWorksContent1": "Provision (Werben Sie Freunde, um zu verdienen)",
+    "howItWorksContent2": "Provision ist die Belohnung, die Sie aus den Swap- und Futures-Gebühren Ihrer geworbenen Personen verdienen.",
+    "howItWorksContent3": "Sie können unbegrenzt viele Benutzer werben und Ihren eigenen Provisionssatz festlegen, bevor Sie Ihren Code teilen.",
+    "howItWorksContent4": "Sobald ein Geworbener Ihren Code eingibt, ist dieser Satz für ihn gesperrt – spätere Änderungen gelten nur für neue Geworbene.",
+    "howItWorksContent5": "Provisionen werden im 'Earning History' aktualisiert und monatlich in USD abgerechnet.",
+    "howItWorksContent6": "Cashback (Code des Werbers eingeben, um zu verdienen)",
+    "howItWorksContent7": "Cashback ist die Belohnung, die nach Eingabe des Codes eines Werbers von Ihren eigenen Swap- und Futures-Gebühren zurückerstattet wird.",
+    "howItWorksContent8": "Jedes Wallet kann nur einen Empfehlungscode eingeben, um Cashback zu aktivieren.",
+    "howItWorksContent9": "Die Cashback-Sätze hängen von dem vom Werber festgelegten Provisionssatz ab.",
+    "howItWorksContent10": "Cashback wird im 'Earning History' aktualisiert und monatlich in USD abgerechnet."
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "Wie kann man abheben?",
+    "howToWithdrawContent1": "Die 'Estimated Reward' zeigt Ihren Gesamtbetrag (Provision + Cashback), umgerechnet in USD, basierend auf den aktuellen Marktpreisen.",
+    "howToWithdrawContent2": "Der 'Withdrawable' Betrag ist der endgültige USD-Betrag nach der monatlichen Umrechnung und Abrechnung (1. bis 10. jedes Monats).",
+    "howToWithdrawContent3": "Wenn Ihre Gesamtbelohnung nach der Umrechnung ≥ 10 USD beträgt, wird sie abhebbar und kann beansprucht werden.",
+    "howToWithdrawContent4": "Wenn Ihre Gesamtbelohnung < 10 USD beträgt, wird sie in den nächsten Monatszyklus übertragen, bis sie den Schwellenwert überschreitet.",
+    "note1": "Abhebungen erfordern ein ausreichendes BNB-Guthaben für die Gasgebühren im BSC-Netzwerk.",
+    "note2": "Wenn Ihr abhebbarer Betrag unter 10 USD liegt oder Sie bis zum nächsten Monat keine Abhebung vornehmen, wird er übertragen und mit den umgerechneten Belohnungen des nächsten Monats angesammelt."
+  },
+  "hcs": {
+    "whatIsHCSTitle": "Was ist HCS?",
+    "whatIsHCSContent1": "Der Human Credit Score (HCS) ist ein dynamischer Vertrauensindex, der durch maschinelles Lernen gestützt wird.",
+    "whatIsHCSContent2": "Er analysiert kontinuierlich verifizierte Identitätsdaten, Verhaltensaktivitäten und Blockchain-Interaktionen im gesamten InterLink-Netzwerk.",
+    "howToIncreaseHCSTitle": "Wie kann man den HCS erhöhen?",
+    "howToIncreaseHCSText": "Sie können Ihren HCS durch konsistente Aktionen sowohl in der InterLink App als auch in der ITLX Wallet erhöhen.",
+    "howToIncreaseHCSContent1": "Täglich minen und Strähnen beibehalten, in Ihrer Sicherheitsgruppe minen und das gesamte Team aktiv halten.",
+    "howToIncreaseHCSContent2": "Ihr HCS wächst, wenn Ihr Wallet älter wird und Ihre On-Chain-Aktivitäten (Swap, Trade, Hold) sich ansammeln, was langfristige menschliche Konsistenz beweist.",
+    "howToIncreaseHCSContent3": "Je realer, stabiler und aktiver Sie sind, desto stärker wird Ihr HCS."
+  }
+}

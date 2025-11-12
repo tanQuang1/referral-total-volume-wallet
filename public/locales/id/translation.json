@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "Ikhtisar",
+    "overviewContent1": "Sistem rujukan (Referral system) InterLink Wallet memungkinkan pengguna untuk mendapatkan dan berbagi hadiah melalui aktivitas perdagangan.",
+    "overviewContent2": "Baik pengundang maupun yang diundang dapat memperoleh manfaat – pengundang mendapatkan komisi dari transaksi yang diundang, sementara yang diundang menerima cashback dari transaksi mereka sendiri.",
+    "overviewContent3": "Hadiah dihitung secara otomatis dan dikonversi ke USD selama siklus penyelesaian bulanan.",
+    "howItWorksTitle": "Bagaimana Cara Kerjanya?",
+    "howItWorksContent1": "Komisi (Undang rujukan untuk mendapatkan)",
+    "howItWorksContent2": "Komisi adalah hadiah yang Anda dapatkan dari biaya Swap dan Futures dari orang yang Anda undang.",
+    "howItWorksContent3": "Anda dapat mengundang pengguna tanpa batas dan menetapkan tingkat komisi Anda sendiri sebelum membagikan kode Anda.",
+    "howItWorksContent4": "Setelah yang diundang memasukkan kode Anda, tingkat tersebut dikunci untuk mereka – perubahan di kemudian hari hanya berlaku untuk yang diundang baru.",
+    "howItWorksContent5": "Komisi diperbarui di 'Earning History' dan diselesaikan setiap bulan dalam USD.",
+    "howItWorksContent6": "Cashback (Masukkan kode pengundang untuk mendapatkan)",
+    "howItWorksContent7": "Cashback adalah hadiah yang dikembalikan dari biaya Swap dan Futures Anda sendiri setelah memasukkan kode pengundang.",
+    "howItWorksContent8": "Setiap dompet hanya dapat memasukkan satu kode rujukan untuk mengaktifkan cashback.",
+    "howItWorksContent9": "Tingkat cashback tergantung pada tingkat komisi yang ditetapkan oleh pengundang.",
+    "howItWorksContent10": "Cashback diperbarui di 'Earning History' dan diselesaikan setiap bulan dalam USD."
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "Bagaimana cara menarik?",
+    "howToWithdrawContent1": "«Estimated Reward» (Hadiah Diperkirakan) menunjukkan total Anda (komisi + cashback) dikonversi ke USD berdasarkan kurs pasar saat ini.",
+    "howToWithdrawContent2": "«Withdrawable» (Dapat Ditarik) adalah jumlah USD yang difinalisasi setelah konversi dan penyelesaian bulanan (tanggal 1–10 setiap bulan).",
+    "howToWithdrawContent3": "Jika total hadiah Anda setelah konversi ≥ 10 USD, itu menjadi dapat ditarik dan dapat diklaim.",
+    "howToWithdrawContent4": "Jika total hadiah Anda < 10 USD, itu akan dibawa ke siklus bulan berikutnya sampai melebihi ambang batas.",
+    "note1": "Penarikan memerlukan saldo BNB yang cukup untuk biaya gas di jaringan BSC.",
+    "note2": "Jika saldo yang dapat ditarik Anda di bawah 10 USD atau Anda tidak menarik sampai bulan depan, itu akan dibawa dan diakumulasikan dengan hadiah yang dikonversi bulan berikutnya."
+  },
+  "hcs": {
+    "whatIsHCSTitle": "Apa itu HCS?",
+    "whatIsHCSContent1": "Human Credit Score (HCS) adalah indeks kepercayaan dinamis yang didukung oleh pembelajaran mesin.",
+    "whatIsHCSContent2": "Ini terus menganalisis data identitas terverifikasi, aktivitas perilaku, dan interaksi blockchain di seluruh Jaringan InterLink.",
+    "howToIncreaseHCSTitle": "Bagaimana cara meningkatkan HCS?",
+    "howToIncreaseHCSText": "Anda dapat meningkatkan HCS Anda melalui tindakan yang konsisten baik di InterLink App maupun ITLX Wallet.",
+    "howToIncreaseHCSContent1": "Menambang setiap hari dan mempertahankan streak, menambang di Grup Keamanan Anda, dan menjaga seluruh tim tetap aktif bersama.",
+    "howToIncreaseHCSContent2": "HCS Anda tumbuh seiring bertambahnya usia dompet Anda dan aktivitas on-chain Anda (swap, trade, hold) menumpuk, membuktikan konsistensi manusia jangka panjang.",
+    "howToIncreaseHCSContent3": "Semakin nyata, stabil, dan aktif Anda, semakin kuat HCS Anda."
+  }
+}

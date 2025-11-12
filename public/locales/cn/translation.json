@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "概览",
+    "overviewContent1": "InterLink Wallet的推荐系统允许用户通过交易活动赚取和分享奖励。",
+    "overviewContent2": "邀请人和被邀请人都可以受益——邀请人从被邀请人的交易中赚取佣金，而被邀请人则从自己的交易中获得现金返还（cashback）。",
+    "overviewContent3": "奖励会自动计算，并在每月结算周期内转换为美元（USD）。",
+    "howItWorksTitle": "如何运作？",
+    "howItWorksContent1": "佣金 (邀请好友赚取)",
+    "howItWorksContent2": "佣金是您从被邀请人的兑换（Swap）和期货（Futures）费用中获得的奖励。",
+    "howItWorksContent3": "您可以邀请无限数量的用户，并在分享您的代码之前设置自己的佣金比例。",
+    "howItWorksContent4": "一旦被邀请人输入您的代码，该比例将对他们锁定——后续更改仅适用于新的被邀请人。",
+    "howItWorksContent5": "佣金会在“Earning History”（赚取记录）中更新，并每月以USD结算。",
+    "howItWorksContent6": "现金返还 (输入邀请人的代码赚取)",
+    "howItWorksContent7": "现金返还（Cashback）是您输入邀请人代码后，从您自己的兑换（Swap）和期货（Futures）费用中返还的奖励。",
+    "howItWorksContent8": "每个钱包只能输入一个推荐代码来激活现金返还。",
+    "howItWorksContent9": "现金返还比例取决于邀请人设定的佣金比例。",
+    "howItWorksContent10": "现金返还会在“Earning History”中更新，并每月以USD结算。"
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "如何提现？",
+    "howToWithdrawContent1": "“Estimated Reward”（预估奖励）显示您的总额（佣金 + 现金返还），根据当前市场汇率转换为USD。",
+    "howToWithdrawContent2": "“Withdrawable”（可提现金额）是每月转换和结算后（每月1日至10日）确定的USD金额。",
+    "howToWithdrawContent3": "如果您的转换后总奖励 ≥ 10 USD，它将变为可提现并可以领取。",
+    "howToWithdrawContent4": "如果您的总奖励 < 10 USD，它将结转到下个月的周期，直到超过阈值。",
+    "note1": "提现需要足够的BNB余额来支付BSC网络上的Gas费用。",
+    "note2": "如果您的可提现余额低于10 USD，或者您没有在下个月之前提现，它将结转并与下个月转换后的奖励累计。"
+  },
+  "hcs": {
+    "whatIsHCSTitle": "什么是HCS？",
+    "whatIsHCSContent1": "Human Credit Score (HCS) 是由机器学习驱动的动态信任指数。",
+    "whatIsHCSContent2": "它持续分析整个InterLink网络中经过验证的身份数据、行为活动和区块链交互。",
+    "howToIncreaseHCSTitle": "如何提高HCS？",
+    "howToIncreaseHCSText": "您可以通过在InterLink App和ITLX Wallet中采取一致的行动来提高您的HCS。",
+    "howToIncreaseHCSContent1": "每天挖矿并保持连续，在您的安全组中挖矿，并让整个团队保持活跃。",
+    "howToIncreaseHCSContent2": "随着您的钱包使用时间增长和链上活动（兑换、交易、持有）积累，证明了长期的真人一致性，您的HCS也会增长。",
+    "howToIncreaseHCSContent3": "您越真实、越稳定、越活跃，您的HCS就越强。"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "Pangkalahatang-ideya",
+    "overviewContent1": "Ang referral system ng InterLink Wallet ay nagpapahintulot sa mga gumagamit na kumita at magbahagi ng mga reward sa pamamagitan ng mga aktibidad sa pag-trade.",
+    "overviewContent2": "Ang nag-imbita at ang inimbitahan ay parehong makikinabang – kumikita ang mga nag-imbita ng mga komisyon mula sa mga transaksyon ng mga inimbitahan, habang ang mga inimbitahan ay tumatanggap ng cashback mula sa sarili nilang mga transaksyon.",
+    "overviewContent3": "Awtomatikong kinakalkula ang mga reward at iko-convert sa USD sa panahon ng buwanang siklo ng pag-aayos (settlement).",
+    "howItWorksTitle": "Paano Ito Gumagana?",
+    "howItWorksContent1": "Komisyon (Mag-imbita ng mga referral para kumita)",
+    "howItWorksContent2": "Ang komisyon ay ang reward na kinikita mo mula sa Swap at Futures fees ng mga inimbita mo.",
+    "howItWorksContent3": "Maaari kang mag-imbita ng walang limitasyong mga gumagamit at itakda ang sarili mong rate ng komisyon bago ibahagi ang iyong code.",
+    "howItWorksContent4": "Kapag nag-input ang isang inimbitahan ng iyong code, ang rate na iyon ay naka-lock para sa kanila – ang mga pagbabago sa huli ay naaangkop lamang sa mga bagong inimbitahan.",
+    "howItWorksContent5": "Ang mga komisyon ay ina-update sa 'Earning History' at pina-finalize buwan-buwan sa USD.",
+    "howItWorksContent6": "Cashback (Mag-input ng code ng nag-imbita para kumita)",
+    "howItWorksContent7": "Ang Cashback ay ang reward na ibinabalik mula sa sarili mong Swap at Futures fees matapos mag-input ng code ng nag-imbita.",
+    "howItWorksContent8": "Ang bawat wallet ay maaari lamang mag-input ng isang referral code para i-activate ang cashback.",
+    "howItWorksContent9": "Ang mga rate ng cashback ay nakadepende sa rate ng komisyon na itinakda ng nag-imbita.",
+    "howItWorksContent10": "Ang Cashback ay ina-update sa 'Earning History' at inaayos buwan-buwan sa USD."
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "Paano Mag-withdraw?",
+    "howToWithdrawContent1": "Ang «Estimated Reward» (Tinantyang Reward) ay nagpapakita ng iyong kabuuan (komisyon + cashback) na naka-convert sa USD batay sa kasalukuyang market rates.",
+    "howToWithdrawContent2": "Ang «Withdrawable» (Maaaring I-withdraw) ay ang pinal na halaga ng USD pagkatapos ng buwanang conversion at settlement (ika-1–ika-10 ng bawat buwan).",
+    "howToWithdrawContent3": "Kung ang iyong kabuuang reward pagkatapos ng conversion ay 10 USD o mas mataas, ito ay nagiging withrawable at maaaring i-claim.",
+    "howToWithdrawContent4": "Kung ang iyong kabuuang reward ay mas mababa sa 10 USD, ito ay dadalhin sa siklo ng susunod na buwan hanggang sa lumampas ito sa threshold.",
+    "note1": "Ang pag-withdraw ay nangangailangan ng sapat na balanse ng BNB para sa gas fee sa BSC network.",
+    "note2": "Kung ang iyong withrawable balance ay mas mababa sa 10 USD o hindi ka mag-wi-withdraw hanggang sa susunod na buwan, ito ay dadalhin at maiipon kasama ng na-convert na mga reward ng susunod na buwan."
+  },
+  "hcs": {
+    "whatIsHCSTitle": "Ano ang HCS?",
+    "whatIsHCSContent1": "Ang Human Credit Score (HCS) ay isang dinamikong trust index na pinapagana ng machine learning.",
+    "whatIsHCSContent2": "Patuloy itong nag-aanalisa ng na-verify na data ng pagkakakilanlan, aktibidad ng pag-uugali, at mga interaksyon sa blockchain sa buong InterLink Network.",
+    "howToIncreaseHCSTitle": "Paano Palakihin ang HCS?",
+    "howToIncreaseHCSText": "Maaari mong palakihin ang iyong HCS sa pamamagitan ng pare-parehong mga aksyon sa InterLink App at ITLX Wallet.",
+    "howToIncreaseHCSContent1": "Mag-mine araw-araw at panatilihin ang mga streak, mag-mine sa iyong Security Group, at panatilihing aktibo ang buong team nang magkasama.",
+    "howToIncreaseHCSContent2": "Lumalaki ang iyong HCS habang tumatanda ang iyong wallet at dumarami ang iyong on-chain activities (swap, trade, hold), na nagpapatunay ng pangmatagalang pagiging konsistent ng tao.",
+    "howToIncreaseHCSContent3": "Kung mas totoo, matatag, at aktibo ka, mas lalakas ang iyong HCS."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "Bayani Gabaɗaya",
+    "overviewContent1": "Tsarin Referral na InterLink Wallet yana bawa masu amfani damar samun da raba lada ta hanyar ayyukan ciniki.",
+    "overviewContent2": "Duk mai gayyata da wanda aka gayyata suna iya cin gajiyar hakan – masu gayyata suna samun kwamishin daga ma'amaloli na waɗanda aka gayyata, yayin da waɗanda aka gayyata ke karɓar cashback daga nasu ma'amaloli.",
+    "overviewContent3": "Lada ana lissafta su kai tsaye kuma ana canza su zuwa USD yayin sake zagayowar biyan kuɗi na wata-wata.",
+    "howItWorksTitle": "Yaya Yake Aiki?",
+    "howItWorksContent1": "Kwamishin (Gayyato referrals don samun kuɗi)",
+    "howItWorksContent2": "Kwamishin shine ladan da kake samu daga kuɗaɗen Swap da Futures na waɗanda ka gayyata.",
+    "howItWorksContent3": "Kana iya gayyatar masu amfani marasa iyaka kuma ka saita naka adadin kwamishin kafin raba lambar ka.",
+    "howItWorksContent4": "Da zarar wanda aka gayyata ya shigar da lambar ka, wannan adadin zai kulle a gare shi – canje-canje na baya zasu shafi sabbin waɗanda aka gayyata kawai.",
+    "howItWorksContent5": "Kwamishin yana sabuntawa a 'Earning History' kuma ana kammala shi wata-wata a cikin USD.",
+    "howItWorksContent6": "Cashback (Shigar da lambar mai gayyata don samun kuɗi)",
+    "howItWorksContent7": "Cashback shine ladan da aka dawo da shi daga naka kuɗaɗen Swap da Futures bayan ka shigar da lambar mai gayyata.",
+    "howItWorksContent8": "Kowane walat zai iya shigar da lambar referral ɗaya kawai don kunna cashback.",
+    "howItWorksContent9": "Adadin cashback ya dogara ne da adadin kwamishin da mai gayyata ya saita.",
+    "howItWorksContent10": "Cashback yana sabuntawa a 'Earning History' kuma ana biya shi wata-wata a cikin USD."
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "Yaya za a cire kuɗi?",
+    "howToWithdrawContent1": "«Estimated Reward» (Ladan da Aka Ƙiyasta) yana nuna jimlar ku (kwamishin + cashback) da aka canza zuwa USD bisa ga farashin kasuwa na yanzu.",
+    "howToWithdrawContent2": "«Withdrawable» (Mai Cirewa) shine adadin USD na ƙarshe bayan canzawa da biyan kuɗi na wata-wata (ranar 1 zuwa 10 ga kowane wata).",
+    "howToWithdrawContent3": "Idan jimlar ladan ka bayan canzawa ≥ 10 USD, yana zama mai cirewa kuma ana iya da'awar sa.",
+    "howToWithdrawContent4": "Idan jimlar ladan ka < 10 USD, zai ci gaba zuwa zagayowar wata mai zuwa har sai ya wuce iyaka.",
+    "note1": "Cire kuɗi yana buƙatar isasshen ma'aunin BNB don kuɗin gas a kan hanyar sadarwar BSC.",
+    "note2": "Idan ma'aunin ku na mai cirewa bai kai 10 USD ba ko kuma ba ka cire ba har zuwa wata mai zuwa, zai ci gaba kuma ya taru tare da ladan da aka canza na wata mai zuwa."
+  },
+  "hcs": {
+    "whatIsHCSTitle": "Menene HCS?",
+    "whatIsHCSContent1": "Human Credit Score (HCS) wani ma'auni ne na amincewa mai canzawa wanda ilimin inji ke tafiyar da shi (machine learning).",
+    "whatIsHCSContent2": "Yana ci gaba da nazarin tabbatar da bayanan shaida, aikin ɗabi'a, da ma'amaloli na blockchain a duk faɗin InterLink Network.",
+    "howToIncreaseHCSTitle": "Yaya za a ƙara HCS?",
+    "howToIncreaseHCSText": "Kuna iya ƙara HCS ɗinku ta hanyar ayyuka masu daidaituwa a cikin InterLink App da kuma ITLX Wallet.",
+    "howToIncreaseHCSContent1": "Yi hakar ma'adinai kowace rana kuma kiyaye ci gaba, yi hakar ma'adinai a cikin Ƙungiyar Tsaro ku, kuma ku sa dukkanin ƙungiyar su kasance masu aiki tare.",
+    "howToIncreaseHCSContent2": "HCS ɗin ku yana girma yayin da walat ɗin ku ya tsufa kuma ayyukan ku na kan-chain (swap, trade, hold) ke taruwa, yana tabbatar da daidaituwar ɗan adam na dogon lokaci.",
+    "howToIncreaseHCSContent3": "Duk yadda ka kasance na gaske, barga, da aiki, haka HCS ɗinka zai ƙara ƙarfi."
+  }
+}

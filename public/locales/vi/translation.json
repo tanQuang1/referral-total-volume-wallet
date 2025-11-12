@@ -1,0 +1,38 @@
+{
+  "ref": {
+    "overviewTitle": "Tổng quan",
+    "overviewContent1": "Hệ thống giới thiệu (Referral system) của InterLink Wallet cho phép người dùng nhận và chia sẻ phần thưởng thông qua các giao dịch.",
+    "overviewContent2": "Cả người mời và người được mời đều có thể hưởng lợi - người mời kiếm được hoa hồng (commission) từ các giao dịch của người được mời, trong khi người được mời nhận được hoàn tiền (cashback) từ các giao dịch của chính họ.",
+    "overviewContent3": "Phần thưởng được tính toán tự động và sẽ được quy đổi sang USD sau mỗi chu kỳ thanh toán hàng tháng.",
+    "howItWorksTitle": "Cách thức hoạt động?",
+    "howItWorksContent1": "Hoa hồng (Mời bạn bè để kiếm tiền)",
+    "howItWorksContent2": "Hoa hồng là phần thưởng bạn kiếm được từ phí Swap và Futures của những người bạn mời.",
+    "howItWorksContent3": "Bạn có thể mời không giới hạn người dùng và thiết lập tỷ lệ hoa hồng trước khi chia sẻ mã giới thiệu.",
+    "howItWorksContent4": "Khi người được mời nhập mã của bạn, tỷ lệ đó sẽ được khóa cho họ - các thay đổi sau này chỉ áp dụng cho những người được mời mới.",
+    "howItWorksContent5": "Hoa hồng được cập nhật trong Lịch sử phần thưởng (Earning History) và được chốt hàng tháng bằng USD.",
+    "howItWorksContent6": "Hoàn tiền (Nhập mã mời để được hoàn tiền)",
+    "howItWorksContent7": "Hoàn tiền (Cashback) là phần thưởng được hoàn lại từ phí Swap và Futures của chính bạn sau khi nhập mã của người mời.",
+    "howItWorksContent8": "Mỗi ví chỉ có thể nhập một mã giới thiệu để kích hoạt hoàn tiền.",
+    "howItWorksContent9": "Tỷ lệ hoàn tiền do người mời thiết lập.",
+    "howItWorksContent10": "Hoàn tiền được cập nhật trong Lịch sử phần thưởng (Earning History) và được thanh toán hàng tháng bằng USD."
+  },
+  "withdraw": {
+    "howToWithdrawTitle": "Cách rút tiền?",
+    "howToWithdrawContent1": "Phần thưởng Ước tính (Estimated Reward) hiển thị tổng số tiền của bạn (hoa hồng + hoàn tiền) được chuyển đổi sang USD dựa trên tỷ giá thị trường hiện tại.",
+    "howToWithdrawContent2": "Có thể Rút (Withdrawable) là số tiền USD đã được chốt sau khi tính toán (chốt trong khoảng ngày 1 - ngày 10 mỗi tháng).",
+    "howToWithdrawContent3": "Nếu tổng phần thưởng của bạn sau khi chuyển đổi ≥ 10 USD, bạn có thể rút.",
+    "howToWithdrawContent4": "Nếu tổng phần thưởng của bạn < 10 USD, bạn sẽ chưa được rút, số tiền được cộng dồn vào tháng tiếp theo cho đến khi đạt mức.",
+    "note1": "Rút tiền yêu cầu số dư BNB đủ để trả phí gas trên mạng BSC.",
+    "note2": "Nếu số dư có thể rút của bạn dưới 10 USD, hoặc bạn không rút cho đến tháng sau, nó sẽ được tích lũy với phần thưởng được chuyển đổi của tháng sau."
+  },
+  "hcs": {
+    "whatIsHCSTitle": "HCS là gì?",
+    "whatIsHCSContent1": "Điểm tin cậy (HCS) là thang điểm tín nhiệm được vận hành bởi hệ thống Machine Learning.",
+    "whatIsHCSContent2": "Điểm số được cập nhật liên tục từ dữ liệu hoạt động, hành vi và các tương tác trong mạng lưới InterLink.",
+    "howToIncreaseHCSTitle": "Cách tăng HCS?",
+    "howToIncreaseHCSText": "Tăng HCS bằng cách hoạt động trong InterLink App và ITLX Wallet.",
+    "howToIncreaseHCSContent1": "Đào mỗi ngày, giữ streak; tham gia Nhóm Bảo mật và cùng đảm bảo mọi thành viên duy trì hoạt động.",
+    "howToIncreaseHCSContent2": "Ví càng lâu năm và lịch sử giao dịch (Swap, Futures, Hold) càng nhiều, HCS càng tăng - vì phản ánh sự nhất quán của bạn.",
+    "howToIncreaseHCSContent3": "Bạn càng hoạt động, ổn định và tích cực, HCS càng mạnh."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "home": {
+    "currentBonus": "Current Bonus",
+    "history": "History",
+    "yourCommunityVolume": "Your community volume (USD)",
+    "yourVolume": "Your volume",
+    "yourF1Volume": "Your F1's volume",
+    "yourF2Volume": "Your F2's volume (20%)",
+    "rewardThresholds": "Reward Thresholds",
+    "tier": "Tier"
+  },
+  "history": {
+    "rewardHistory": "Reward History",
+    "unpaid": "Unpaid",
+    "paid": "Paid"
+  },
+  "tradeNow": "Trade Now"
+}
