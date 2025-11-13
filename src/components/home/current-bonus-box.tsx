@@ -1,11 +1,11 @@
 import { useTranslation } from "react-i18next";
-import { Link } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 type CurrentBonusBoxProps = {
   currentBonus: number;
 };
 export const CurrentBonusBox = ({ currentBonus }: CurrentBonusBoxProps) => {
   const { t } = useTranslation();
-
+  const { lng } = useParams();
   return (
     <div className="flex flex-col gap-2  bg-[#F5F7FA] text-[#99A0AE] p-4 rounded-xl text-[14px]">
       <div className="flex justify-between ">
@@ -17,7 +17,7 @@ export const CurrentBonusBox = ({ currentBonus }: CurrentBonusBoxProps) => {
           />
           <p>{t("home.currentBonus")}</p>
         </div>
-        <Link to="/history" className="flex items-center">
+        <Link to={`/${lng}/history`} className="flex items-center">
           <p>{t("home.history")}</p>
           <svg
             xmlns="http://www.w3.org/2000/svg"

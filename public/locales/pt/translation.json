@@ -1,38 +1,19 @@
 {
-  "ref": {
-    "overviewTitle": "Visão Geral",
-    "overviewContent1": "O sistema de referência (Referral system) da InterLink Wallet permite aos usuários ganhar e compartilhar recompensas através de atividades de negociação.",
-    "overviewContent2": "Tanto o convidante quanto o convidado podem se beneficiar – os convidantes ganham comissões das transações dos convidados, enquanto os convidados recebem cashback de suas próprias transações.",
-    "overviewContent3": "As recompensas são calculadas automaticamente e convertidas para USD durante o ciclo de liquidação mensal.",
-    "howItWorksTitle": "Como Funciona?",
-    "howItWorksContent1": "Comissão (Convide referências para ganhar)",
-    "howItWorksContent2": "Comissão é a recompensa que você ganha das taxas de Swap e Futures dos seus convidados.",
-    "howItWorksContent3": "Você pode convidar usuários ilimitados e definir sua própria taxa de comissão antes de compartilhar seu código.",
-    "howItWorksContent4": "Assim que um convidado insere seu código, essa taxa é bloqueada para ele – alterações posteriores se aplicam apenas a novos convidados.",
-    "howItWorksContent5": "As comissões são atualizadas no 'Earning History' e são finalizadas mensalmente em USD.",
-    "howItWorksContent6": "Cashback (Insira o código do convidante para ganhar)",
-    "howItWorksContent7": "Cashback é a recompensa devolvida de suas próprias taxas de Swap e Futures após inserir o código de um convidante.",
-    "howItWorksContent8": "Cada carteira pode inserir apenas um código de referência para ativar o cashback.",
-    "howItWorksContent9": "As taxas de cashback dependem da taxa de comissão definida pelo convidante.",
-    "howItWorksContent10": "O Cashback é atualizado no 'Earning History' e é liquidado mensalmente em USD."
+  "home": {
+    "currentBonus": "Bônus Atual",
+    "history": "Histórico",
+    "yourCommunityVolume": "Seu volume comunitário (USD)",
+    "yourVolume": "Seu volume",
+    "yourF1Volume": "Volume dos seus F1",
+    "yourF2Volume": "Volume dos seus F2 (20%)",
+    "rewardThresholds": "Limiares de Recompensa",
+    "tier": "Nível"
   },
-  "withdraw": {
-    "howToWithdrawTitle": "Como sacar?",
-    "howToWithdrawContent1": "A «Estimated Reward» (Recompensa Estimada) mostra o seu total (comissão + cashback) convertido para USD com base nas taxas de mercado atuais.",
-    "howToWithdrawContent2": "O valor «Withdrawable» (Sacável) é o valor final em USD após a conversão e liquidação mensal (de 1 a 10 de cada mês).",
-    "howToWithdrawContent3": "Se a sua recompensa total após a conversão for ≥ 10 USD, ela se torna sacável e pode ser reivindicada.",
-    "howToWithdrawContent4": "Se a sua recompensa total for < 10 USD, ela será transferida para o ciclo do próximo mês até que exceda o limite.",
-    "note1": "Os saques requerem saldo BNB suficiente para a taxa de gás na rede BSC.",
-    "note2": "Se o seu saldo sacável for inferior a 10 USD ou se você não sacar até o próximo mês, ele será transferido e acumulado com as recompensas convertidas do próximo mês."
+  "history": {
+    "rewardHistory": "Histórico de Recompensas",
+    "unpaid": "Não Pago",
+    "paid": "Pago",
+    "noData": "Sem dados"
   },
-  "hcs": {
-    "whatIsHCSTitle": "O que é HCS?",
-    "whatIsHCSContent1": "O Human Credit Score (HCS) é um índice de confiança dinâmico alimentado por aprendizado de máquina.",
-    "whatIsHCSContent2": "Ele analisa continuamente dados de identidade verificada, atividade comportamental e interações de blockchain em toda a InterLink Network.",
-    "howToIncreaseHCSTitle": "Como aumentar o HCS?",
-    "howToIncreaseHCSText": "Você pode aumentar seu HCS por meio de ações consistentes tanto no InterLink App quanto na ITLX Wallet.",
-    "howToIncreaseHCSContent1": "Minere diariamente e mantenha sequências, minere em seu Grupo de Segurança e mantenha toda a equipe ativa junta.",
-    "howToIncreaseHCSContent2": "Seu HCS cresce à medida que sua carteira envelhece e suas atividades on-chain (swap, trade, hold) se acumulam, comprovando consistência humana de longo prazo.",
-    "howToIncreaseHCSContent3": "Quanto mais real, estável e ativo você for, mais forte seu HCS se tornará."
-  }
+  "tradeNow": "Negociar Agora"
 }

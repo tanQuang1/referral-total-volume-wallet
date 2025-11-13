@@ -19,7 +19,7 @@ export const CashBox = () => {
     error: overviewVolumeReferralDataError,
   } = useSWR(`user-wallet/overview-volume-referral?address=${address}`);
   const communityVolume =
-    overviewVolumeReferralData?.data.volumes.communityVolume || 0;
+    overviewVolumeReferralData?.data.communityVolume || 0;
   const myTotalVolume =
     overviewVolumeReferralData?.data.volumes.myTotalVolume || 0;
   const totalF1Volume =

@@ -1,38 +1,19 @@
 {
-  "ref": {
-    "overviewTitle": "概要",
-    "overviewContent1": "InterLink Walletの紹介システム（Referral system）により、ユーザーは取引活動を通じて報酬を獲得し、共有することができます。",
-    "overviewContent2": "招待者と被招待者の双方が利益を得ることができます。招待者は被招待者の取引手数料からコミッションを獲得し、被招待者は自身の取引からキャッシュバックを受け取ります。",
-    "overviewContent3": "報酬は自動的に計算され、毎月の決済サイクル中にUSDに換算されます。",
-    "howItWorksTitle": "仕組み",
-    "howItWorksContent1": "コミッション（紹介して稼ぐ）",
-    "howItWorksContent2": "コミッションは、あなたが招待した人のSwapとFuturesの手数料から獲得する報酬です。",
-    "howItWorksContent3": "無制限のユーザーを招待でき、コードを共有する前に独自のコミッション率を設定できます。",
-    "howItWorksContent4": "被招待者があなたのコードを入力すると、そのレートは彼らに対してロックされます。その後の変更は、新しい被招待者にのみ適用されます。",
-    "howItWorksContent5": "コミッションは「Earning History」で更新され、毎月USDで確定されます。",
-    "howItWorksContent6": "キャッシュバック（招待者のコードを入力して稼ぐ）",
-    "howItWorksContent7": "キャッシュバックは、招待者のコードを入力した後、あなた自身のSwapとFuturesの手数料から戻される報酬です。",
-    "howItWorksContent8": "各ウォレットは、キャッシュバックを有効にするために1つの紹介コードのみを入力できます。",
-    "howItWorksContent9": "キャッシュバック率は、招待者が設定したコミッション率によって異なります。",
-    "howItWorksContent10": "キャッシュバックは「Earning History」で更新され、毎月USDで決済されます。"
+  "home": {
+    "currentBonus": "現在のボーナス",
+    "history": "履歴",
+    "yourCommunityVolume": "あなたのコミュニティボリューム (USD)",
+    "yourVolume": "あなたのボリューム",
+    "yourF1Volume": "あなたのF1のボリューム",
+    "yourF2Volume": "あなたのF2のボリューム (20%)",
+    "rewardThresholds": "報酬のしきい値",
+    "tier": "ティア"
   },
-  "withdraw": {
-    "howToWithdrawTitle": "出金方法",
-    "howToWithdrawContent1": "「Estimated Reward」（推定報酬）は、現在の市場レートに基づいてUSDに換算された合計額（コミッション + キャッシュバック）を表示します。",
-    "howToWithdrawContent2": "「Withdrawable」（出金可能額）は、毎月の換算と決済後（毎月1日から10日）に確定されたUSDの金額です。",
-    "howToWithdrawContent3": "換算後の合計報酬が10 USD以上の場合、出金可能となり、請求できます。",
-    "howToWithdrawContent4": "合計報酬が10 USD未満の場合、しきい値を超えるまで翌月のサイクルに繰り越されます。",
-    "note1": "出金には、BSCネットワークでのガス代として十分なBNB残高が必要です。",
-    "note2": "出金可能残高が10 USD未満の場合、または翌月まで出金しない場合、翌月の換算された報酬に繰り越され、累積されます。"
+  "history": {
+    "rewardHistory": "報酬履歴",
+    "unpaid": "未払い",
+    "paid": "支払い済み",
+    "noData": "データなし"
   },
-  "hcs": {
-    "whatIsHCSTitle": "HCSとは？",
-    "whatIsHCSContent1": "Human Credit Score (HCS) は、機械学習によって強化された動的な信頼指数です。",
-    "whatIsHCSContent2": "InterLinkネットワーク全体で、検証済みのIDデータ、行動活動、およびブロックチェーンの相互作用を継続的に分析します。",
-    "howToIncreaseHCSTitle": "HCSを増やす方法",
-    "howToIncreaseHCSText": "InterLink AppとITLX Walletの両方で一貫した行動をとることでHCSを増やすことができます。",
-    "howToIncreaseHCSContent1": "毎日マイニングを行い、連続記録を維持し、セキュリティグループでマイニングし、チーム全体を一緒にアクティブに保ちます。",
-    "howToIncreaseHCSContent2": "あなたのウォレットが古くなり、オンチェーン活動（Swap、Trade、Hold）が蓄積するにつれて、長期的な人間のの一貫性を証明し、HCSは成長します。",
-    "howToIncreaseHCSContent3": "あなたがよりリアルで、安定していて、活動的であるほど、HCSはより強くなります。"
-  }
+  "tradeNow": "今すぐ取引"
 }

@@ -12,7 +12,8 @@
   "history": {
     "rewardHistory": "Reward History",
     "unpaid": "Unpaid",
-    "paid": "Paid"
+    "paid": "Paid",
+    "noData": "No data"
   },
   "tradeNow": "Trade Now"
 }

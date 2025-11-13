@@ -1,18 +1,19 @@
 {
   "home": {
-    "currentBonus": "Thưởng hiện tại",
-    "history": "Lịch sử",
-    "yourCommunityVolume": "Khối lượng cộng đồng của bạn (USD)",
+    "currentBonus": "Thưởng Hiện Tại",
+    "history": "Lịch Sử",
+    "yourCommunityVolume": "Khối lượng Cộng đồng của bạn (USD)",
     "yourVolume": "Khối lượng của bạn",
     "yourF1Volume": "Khối lượng F1 của bạn",
     "yourF2Volume": "Khối lượng F2 của bạn (20%)",
-    "rewardThresholds": "Ngưỡng phần thưởng",
-    "tier": "Cấp bậc"
+    "rewardThresholds": "Ngưỡng Thưởng",
+    "tier": "Cấp"
   },
   "history": {
-    "rewardHistory": "Lịch sử phần thưởng",
+    "rewardHistory": "Lịch Sử Thưởng",
     "unpaid": "Chưa thanh toán",
-    "paid": "Đã thanh toán"
+    "paid": "Đã thanh toán",
+    "noData": "Không có dữ liệu"
   },
-  "tradeNow": "Giao dịch ngay"
+  "tradeNow": "Giao Dịch Ngay"
 }

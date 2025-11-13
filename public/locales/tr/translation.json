@@ -1,38 +1,19 @@
 {
-  "ref": {
-    "overviewTitle": "Genel Bakış",
-    "overviewContent1": "InterLink Wallet'ın referans sistemi (Referral system), kullanıcıların ticaret faaliyetleri aracılığıyla ödüller kazanmasını ve paylaşmasını sağlar.",
-    "overviewContent2": "Hem davet eden hem de davet edilen fayda sağlayabilir – davet edenler, davet edilenlerin işlemlerinden komisyon kazanırken, davet edilenler kendi işlemlerinden geri ödeme (cashback) alırlar.",
-    "overviewContent3": "Ödüller otomatik olarak hesaplanır ve aylık ödeme döngüsü sırasında USD'ye dönüştürülür.",
-    "howItWorksTitle": "Nasıl Çalışır?",
-    "howItWorksContent1": "Komisyon (Kazanmak için referans davet edin)",
-    "howItWorksContent2": "Komisyon, davet ettiğiniz kişilerin Swap ve Futures ücretlerinden kazandığınız ödüldür.",
-    "howItWorksContent3": "Sınırsız kullanıcı davet edebilir ve kodunuzu paylaşmadan önce kendi komisyon oranınızı belirleyebilirsiniz.",
-    "howItWorksContent4": "Bir davetli kodunuzu girdiğinde, bu oran onlar için kilitlenir – daha sonraki değişiklikler yalnızca yeni davetliler için geçerlidir.",
-    "howItWorksContent5": "Komisyonlar 'Earning History'de güncellenir ve aylık olarak USD cinsinden kesinleştirilir.",
-    "howItWorksContent6": "Geri Ödeme (Kazanmak için davet edenin kodunu girin)",
-    "howItWorksContent7": "Geri ödeme (Cashback), bir davet edenin kodunu girdikten sonra kendi Swap ve Futures ücretlerinizden iade edilen ödüldür.",
-    "howItWorksContent8": "Her cüzdan, geri ödemeyi etkinleştirmek için yalnızca bir referans kodu girebilir.",
-    "howItWorksContent9": "Geri ödeme oranları, davet edenin belirlediği komisyon oranına bağlıdır.",
-    "howItWorksContent10": "Geri ödeme 'Earning History'de güncellenir ve aylık olarak USD cinsinden ödenir."
+  "home": {
+    "currentBonus": "Mevcut Bonus",
+    "history": "Geçmiş",
+    "yourCommunityVolume": "Topluluk hacminiz (USD)",
+    "yourVolume": "Sizin hacminiz",
+    "yourF1Volume": "F1'lerinizin hacmi",
+    "yourF2Volume": "F2'lerinizin hacmi (20%)",
+    "rewardThresholds": "Ödül Eşikleri",
+    "tier": "Kademe"
   },
-  "withdraw": {
-    "howToWithdrawTitle": "Nasıl çekilir?",
-    "howToWithdrawContent1": "«Estimated Reward» (Tahmini Ödül), mevcut piyasa oranlarına göre USD'ye dönüştürülen toplamınızı (komisyon + geri ödeme) gösterir.",
-    "howToWithdrawContent2": "«Withdrawable» (Çekilebilir), aylık dönüştürme ve ödeme (her ayın 1'inden 10'una kadar) sonrasında kesinleşen USD tutarıdır.",
-    "howToWithdrawContent3": "Dönüştürmeden sonraki toplam ödülünüz ≥ 10 USD ise, çekilebilir hale gelir ve talep edilebilir.",
-    "howToWithdrawContent4": "Toplam ödülünüz < 10 USD ise, eşiği aşana kadar bir sonraki ayın döngüsüne aktarılır.",
-    "note1": "Para çekme işlemleri, BSC ağındaki gas ücreti için yeterli BNB bakiyesi gerektirir.",
-    "note2": "Çekilebilir bakiyeniz 10 USD'nin altındaysa veya bir sonraki aya kadar çekmezseniz, bir sonraki ayın dönüştürülen ödülleriyle birlikte aktarılır ve birikir."
+  "history": {
+    "rewardHistory": "Ödül Geçmişi",
+    "unpaid": "Ödenmemiş",
+    "paid": "Ödendi",
+    "noData": "Veri yok"
   },
-  "hcs": {
-    "whatIsHCSTitle": "HCS Nedir?",
-    "whatIsHCSContent1": "Human Credit Score (HCS), makine öğrenimi tarafından desteklenen dinamik bir güven endeksidir.",
-    "whatIsHCSContent2": "InterLink Ağı genelinde doğrulanmış kimlik verilerini, davranışsal aktiviteyi ve blok zinciri etkileşimlerini sürekli olarak analiz eder.",
-    "howToIncreaseHCSTitle": "HCS Nasıl Artırılır?",
-    "howToIncreaseHCSText": "HCS'nizi hem InterLink App hem de ITLX Wallet'ta tutarlı eylemlerle artırabilirsiniz.",
-    "howToIncreaseHCSContent1": "Her gün madencilik yapın ve serileri sürdürün, Güvenlik Grubunuzda madencilik yapın ve tüm ekibi birlikte aktif tutun.",
-    "howToIncreaseHCSContent2": "Cüzdanınızın yaşı ilerledikçe ve zincir üzerindeki faaliyetleriniz (swap, trade, hold) biriktikçe HCS'niz büyür, bu da uzun vadeli insan tutarlılığını kanıtlar.",
-    "howToIncreaseHCSContent3": "Ne kadar gerçek, istikrarlı ve aktif olursanız, HCS'niz o kadar güçlenir."
-  }
+  "tradeNow": "Şimdi Ticaret Yap"
 }
