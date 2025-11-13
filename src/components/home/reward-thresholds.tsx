@@ -4,6 +4,7 @@ type RewardThresholdsProps = {
   tiers?: Array<{
     code: 1 | 2 | 3 | 4 | 5 | 6;
     reward: number;
+    progress: number;
   }>;
 };
 export const RewardThresholds = ({ tiers }: RewardThresholdsProps) => {
@@ -21,6 +22,7 @@ export const RewardThresholds = ({ tiers }: RewardThresholdsProps) => {
                 key={tier.code}
                 code={tier.code}
                 reward={tier.reward}
+                progress={tier.progress}
               />
             ))}
           </div>

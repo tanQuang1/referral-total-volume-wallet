@@ -3,11 +3,13 @@ import { useTranslation } from "react-i18next";
 type RewardThresholdsCardProps = {
   code: 1 | 2 | 3 | 4 | 5 | 6;
   reward: number;
+  progress: number;
 };
 
 export const RewardThresholdsCard = ({
   code,
   reward,
+  progress,
 }: RewardThresholdsCardProps) => {
   const { t } = useTranslation();
   const TIER_INFO = {
@@ -36,8 +38,8 @@ export const RewardThresholdsCard = ({
       img: "https://public.interlinklabs.ai/1762916312253_tier6.png",
     },
   };
-  const progress = (reward / TIER_INFO[code].threshold) * 100;
-  const pct = Math.max(0, Math.min(progress, 100));
+
+  const pct = progress * 100;
   const isComplete = pct >= 100;
 
   return (
